@@ -1,0 +1,18 @@
+{"param":
+{
+"local_server": "True",
+  "local_uri":  "mysql://root:@localhost/codingthunder",
+  "prod_uri": "mysql://root:@localhost/codingthunder",
+  "fb_url": "https://www.google.com/search?q=facebook&oq=fac&aqs=chrome.1.69i57j0l5.1712j0j8&sourceid=chrome&ie=UTF-8#",
+  "tw_url": "https://www.google.com/search?q=facebook&oq=fac&aqs=chrome.1.69i57j0l5.1712j0j8&sourceid=chrome&ie=UTF-8#",
+  "git_url": "https://www.google.com/search?q=facebook&oq=fac&aqs=chrome.1.69i57j0l5.1712j0j8&sourceid=chrome&ie=UTF-8#",
+  "name": "Reliance Blog",
+  "tag": "A blog liked by jio users",
+  "user": "ebhatore@gmail.com",
+  "password": "1Eesh@#5",
+  "no_of_posts": 5,
+  "login_img": "login.svg",
+  "admin_user": "harry",
+  "admin_pass": "harry@123"
+}
+}
